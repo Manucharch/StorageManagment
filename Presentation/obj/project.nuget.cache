@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NvNB5nqxc1ni+MYJY6U4C9+2dvX0pQii0mXhPbfpzDGHz6X5dSQUATkmDLMz3AB1QFdBlz/NHYnQvw0j5JrwZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.chachanidze\\source\\repos\\Manucharch\\StorageMangment\\Presentation\\StorageMangment.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.chachanidze\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\m.chachanidze\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\m.chachanidze\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\m.chachanidze\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\m.chachanidze\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\m.chachanidze\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
